@@ -13,4 +13,4 @@ To save the results in a local database, use mysql and create a database called 
 
 Usage
 
-node sampledownloader.js opens up a few prompts about your query. After that, the program fetches the Repos and clones them to a subfolder named “clonedRepos”. The eslint node api will automatically lint the repositories and write the results into the local database.
+node sampleDownloader.js opens up a few prompts about your query. After that, the program fetches the Repos and clones them to a subfolder named “clonedRepos”. The eslint node api will automatically lint the repositories and write the results into the local database.
