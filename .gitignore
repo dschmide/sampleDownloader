@@ -1,0 +1,11 @@
+node_modules
+clonedrepos
+
+#debugging and backups
+testscript.js
+sampleDownloader-backup.js
+sampleDownloader.js
+
+#textfiles
+dbAccess.txt
+gitHubToken.txt
