@@ -4,7 +4,8 @@ clonedrepos
 #debugging and backups
 testscript.js
 sampleDownloader-backup.js
-sampleDownloader.js
+repoDownloader3.js
+sampler.js
 
 #textfiles
 dbAccess.txt
